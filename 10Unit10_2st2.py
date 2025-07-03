@@ -1,5 +1,5 @@
 # pip install streamlit
-# streamlit run AI102_st2.py
+# streamlit run 10Unit10_2st2.py
 import cv2
 import streamlit as st
 import yt_dlp

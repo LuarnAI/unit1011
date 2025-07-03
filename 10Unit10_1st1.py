@@ -1,5 +1,5 @@
 # pip install streamlit
-# streamlit run AI101_st1.py
+# streamlit run 10Unit10_1st1.py
 import cv2
 import streamlit as st
 
